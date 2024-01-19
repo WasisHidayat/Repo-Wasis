@@ -23,6 +23,8 @@ WebUI.navigateToUrl('https://www.saucedemo.com/')
 
 WebUI.setText(findTestObject('Object Repository/Remove Product/Page_Swag Labs/input_user-name'), 'standard_user')
 
+WebUI.setEncryptedText(findTestObject('Object Repository/Remove Product/Page_Swag Labs/input_password'), '9NLz+4tGZcQ=')
+
 WebUI.click(findTestObject('Object Repository/Remove Product/Page_Swag Labs/div_Password for all userssecret_sauce'))
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Remove Product/Page_Swag Labs/input_password'), 'qcu24s4901FyWDTwXGr6XA==')
@@ -34,8 +36,4 @@ WebUI.click(findTestObject('Object Repository/Remove Product/Page_Swag Labs/butt
 WebUI.click(findTestObject('Object Repository/Remove Product/Page_Swag Labs/a_1'))
 
 WebUI.click(findTestObject('Object Repository/Remove Product/Page_Swag Labs/button_Remove'))
-
-WebUI.click(findTestObject('Object Repository/Remove Product/Page_Swag Labs/button_Continue Shopping'))
-
-WebUI.acceptAlert()
 

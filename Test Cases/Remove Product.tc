@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Remove Procuct</name>
+   <name>Remove Product</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>71ca7516-33b0-41e9-ab4d-73a5d27513d4</testCaseGuid>
+   <testCaseGuid>49b7687c-971d-4bb7-800b-be80b96ad726</testCaseGuid>
 </TestCaseEntity>

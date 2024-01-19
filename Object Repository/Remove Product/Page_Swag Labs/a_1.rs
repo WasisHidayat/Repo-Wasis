@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>205a4195-4869-403a-92fe-57330e1f7af6</webElementGuid>
+      <webElementGuid>ee5139e5-5d4f-463a-8039-02171d18a93c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>shopping_cart_link</value>
-      <webElementGuid>90e31e25-0875-416c-bc21-fe1b643cd047</webElementGuid>
+      <webElementGuid>c43f660d-e15b-498a-9266-91241259544c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>0778f277-560e-47b4-9c21-2bea5f94ca3d</webElementGuid>
+      <webElementGuid>9110883f-5218-462d-9d1c-27e11ed62e26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;shopping_cart_container&quot;)/a[@class=&quot;shopping_cart_link&quot;]</value>
-      <webElementGuid>a3388d5f-0f32-4cd6-a7d6-5c768087691e</webElementGuid>
+      <webElementGuid>5707391f-ae5d-445a-98f5-308e57f160e3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='shopping_cart_container']/a</value>
-      <webElementGuid>96e02a14-0d9e-475d-b22a-a757474c23c3</webElementGuid>
+      <webElementGuid>94ba3844-7065-420c-b969-38cb417ca512</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/a</value>
-      <webElementGuid>b24b0bd8-91ec-4e5e-a361-641032bbf0a0</webElementGuid>
+      <webElementGuid>69d15ac3-b0f5-43b3-888c-46d4ce7e1b6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[(text() = '1' or . = '1')]</value>
-      <webElementGuid>49e433d9-596d-4649-afc6-a9469ba314ac</webElementGuid>
+      <webElementGuid>a70e4640-0e58-4978-a830-bec15ee880b1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
