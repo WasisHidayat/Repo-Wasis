@@ -31,5 +31,3 @@ WebUI.click(findTestObject('Object Repository/Add to chart/Page_Swag Labs/button
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Add to chart/Page_Swag Labs/div_Sauce Labs Backpack'))
 
-WebUI.acceptAlert()
-
