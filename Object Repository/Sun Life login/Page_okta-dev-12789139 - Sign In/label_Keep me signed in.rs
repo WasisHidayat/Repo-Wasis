@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_button button-primary</name>
+   <name>label_Keep me signed in</name>
    <tag></tag>
-   <elementGuidId>6b4d6542-cac7-45b9-9f9f-88dfd468aba0</elementGuidId>
+   <elementGuidId>e115954b-59fe-4503-bc1d-989db741254b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='Sign in']</value>
+         <value>//form[@id='form20']/div/div[3]/div[3]/div/span/div/label</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input.button.button-primary</value>
+         <value>label.hover</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>73d678d0-ac16-4669-a950-ecb95016cb21</webElementGuid>
+      <value>label</value>
+      <webElementGuid>ee38b44f-1ae5-4dc1-a991-5495f3458705</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>input44</value>
+      <webElementGuid>cde9d325-a7bc-46e8-aa09-906ee1404aa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-se-for-name</name>
+      <type>Main</type>
+      <value>rememberMe</value>
+      <webElementGuid>75baedef-4b5a-4765-af6c-8204f32f89ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>button button-primary</value>
-      <webElementGuid>d9fabad5-b363-4466-8bd6-769c12230dc3</webElementGuid>
+      <value>hover</value>
+      <webElementGuid>8fd73292-7360-4978-af20-a50dfc37eda4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>text</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>408d4e55-d0c1-4f94-8f7f-ea530cbc6175</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Sign in</value>
-      <webElementGuid>daedaf7a-6548-4841-9fed-d097ab4c6fdf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-type</name>
-      <type>Main</type>
-      <value>save</value>
-      <webElementGuid>3c9d2e98-e0bf-40c0-ad5f-30c14983fae4</webElementGuid>
+      <value>Keep me signed in</value>
+      <webElementGuid>4df24374-7e83-4098-8def-47d82d28ab3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;form20&quot;)/div[@class=&quot;o-form-button-bar&quot;]/input[@class=&quot;button button-primary&quot;]</value>
-      <webElementGuid>47284351-2655-46ae-b8cc-5996c2ad8fa8</webElementGuid>
+      <value>id(&quot;form20&quot;)/div[@class=&quot;o-form-content o-form-theme clearfix&quot;]/div[@class=&quot;o-form-fieldset-container&quot;]/div[@class=&quot;o-form-fieldset o-form-label-top&quot;]/div[@class=&quot;o-form-input&quot;]/span[@class=&quot;o-form-input-name-rememberMe&quot;]/div[@class=&quot;custom-checkbox&quot;]/label[@class=&quot;hover&quot;]</value>
+      <webElementGuid>5bfbc4cc-741d-453e-8128-1716cd718e80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>//input[@value='Sign in']</value>
-      <webElementGuid>73dfcccb-1fcf-4f6c-807f-5c3c15ba2ecc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form20']/div[2]/input</value>
-      <webElementGuid>eb8c684f-90b1-4d29-b4c0-88ee573a7a2a</webElementGuid>
+      <value>//form[@id='form20']/div/div[3]/div[3]/div/span/div/label</value>
+      <webElementGuid>72900d72-ee94-466b-ac22-aac2b28f8647</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
-      <webElementGuid>5b7153af-ac86-4c6d-8204-6e9130454fd3</webElementGuid>
+      <value>//span/div/label</value>
+      <webElementGuid>9de11cf6-42b5-4b78-89e5-d6688dabd567</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit']</value>
-      <webElementGuid>d2aff383-93a3-4fe5-9495-b7f7eaf67c93</webElementGuid>
+      <value>//label[(text() = 'Keep me signed in' or . = 'Keep me signed in')]</value>
+      <webElementGuid>62994f57-690a-45f2-ab98-82ef4c6cadc5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

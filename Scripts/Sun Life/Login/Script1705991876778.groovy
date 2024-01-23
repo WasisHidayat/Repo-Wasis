@@ -21,23 +21,14 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://iglo-dev.ekreasi.com/msl/landing')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Sun Life login/Page_My Sun Life/button_Log In'))
 
-WebUI.setText(findTestObject('null'), 
-    'hari.sabintang@indocyber.id')
+WebUI.setText(findTestObject('Object Repository/Sun Life login/Page_okta-dev-12789139 - Sign In/input_identifier'), 'hari.sabintang@indocyber.id')
 
-WebUI.setEncryptedText(findTestObject('null'), 
+WebUI.setEncryptedText(findTestObject('Object Repository/Sun Life login/Page_okta-dev-12789139 - Sign In/input_credentials.passcode'), 
     'VpPqM6/QKln4pL8M9Th8UA==')
 
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('Object Repository/Sun Life login/Page_okta-dev-12789139 - Sign In/label_Keep me signed in'))
 
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Sun Life login/Page_okta-dev-12789139 - Sign In/input_button button-primary'))
 
