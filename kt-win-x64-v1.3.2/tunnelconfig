@@ -1,0 +1,15 @@
+allow_hosts = []
+api_key = 'ed514685-e4a6-4a5c-8f55-97619c1db7ea'
+group = 'e8aea18e-4edb-44ee-ab5c-4da6a9d41c6f'
+inactive_tunnel_timeout = 0
+organization_id = 1378372
+private_tunnel = false
+proxy_host = ''
+proxy_password = ''
+proxy_port = ''
+proxy_username = ''
+retry = 3
+server = 'https://tunnel-manager.katalon.com'
+team_id = 1378372
+tenant = 'TestOps'
+username = 'wasis.hidayat@indocyber.id'
