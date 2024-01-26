@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Create Baru</name>
+   <name>Create</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c6d8fcfd-684a-4e1a-9b65-87290bf501a7</testCaseGuid>
