@@ -17,8 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-Mobile.startApplication('C:\\Users\\1722\\Downloads\\kaf-debug.apk', true)
-
 Mobile.tap(findTestObject('Object Repository/Create/android.widget.ImageView'), 0)
 
 Mobile.tap(findTestObject('Object Repository/Create/android.widget.ImageView (1)'), 0)
